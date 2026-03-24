@@ -1,4 +1,4 @@
-# CryptoZombies - Lesson 1: Zombie Factory 🧟‍♂️
+# CryptoZombies - Zombie Factory 🧟‍♂️
 
 First smart contract, developed as an assignment for the **Blockchain Based Systems** course in the **Computer Science (English)** program at **Tbilisi State University**.
 
